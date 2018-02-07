@@ -1,4 +1,5 @@
 # Scope Spring 2018: Backend, Node, and DevOps
+Hub for the Spring 2018 curriculum on as we go.
 
 ## Curriculum Outline
 * Lesson 1: Environment Setup
