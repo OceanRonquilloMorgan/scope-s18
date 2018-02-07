@@ -13,10 +13,7 @@ npm -v
 // -> should print 5.x
 ```
 ### Installing
-**Clone the repo**
-```
-git clone https://github.com/scopeusc/scope_s18.git
-```
+
 **Install dependencies**
 ```
 npm install
