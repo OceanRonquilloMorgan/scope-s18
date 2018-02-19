@@ -1,4 +1,4 @@
-# HTTP and Routes
+# Lesson 2: HTTP and Routes
 
 To get a good grasp of the basic concepts of HTTP and routing, we will be creating a simplified version of a Reddit-like forum where users can get view pictures of and discuss cute puppies.
 
