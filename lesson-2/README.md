@@ -28,7 +28,7 @@ npm start
 ----------
 
 
-## Part 2: Understanding the project structure
+## Understanding the project structure
 
  - **bin**: Holds the `www` file, whose sole purpose is to actually run your application. Don't worry about this one.
  - **node_modules**: Contains the source code of everything you  `npm install`
