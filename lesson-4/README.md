@@ -8,30 +8,32 @@ This lesson will introduce you to some of the core concepts of databases such as
 
 
 ## Setup
-
-**Setting up the project**
-
-Navigate into the `lesson-4-skeleton` folder. Create a Node.js project by typing the following:
-```javascript
-npm init
+**node.js**
+Make sure to you have the right version of Node.js
 ```
-You should now see a `package.json` file inside your project directory.
+node -v
+// -> should print 8.x
+npm -v
+// -> should print 5.x
+```
+### Installing
 
-Make sure to install Express as a dependency.
-```javascript
-npm install --save express
+**Install dependencies**
+```
+npm install
 ```
 
-**Creating the Express.js project**
-Make sure you are in the same directory with `package.json`. You should have the express CLI globally installed from the previous projects. If you don't, type `npm install --g express-generator`.
-```javascript
-express --view=ejs
+### Running the project
+Make sure you are in the same directory with `package.json`.
 ```
-This creates an Express application in your current directory and sets `ejs` to the default view engine. In addition, it adds a bunch of dependencies to your `package.json`, so don't forget to type `npm install`! 
+npm start
+```
 
-**Copying over the views from the lesson-4-completed**
-
-Navigate into the lesson-4-completed folder and copy over the views directory into the lesson-4-skeleton, replacing over the one that express generated.
+### Check it out
+Open a new tab and go to
+```
+localhost:3000
+```
 
 ----------
 

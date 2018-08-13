@@ -4,9 +4,37 @@ This lesson will add on to some of the concepts taught in Lesson 4 by adding an 
 
 <img src="https://i.imgur.com/BzuXuHz.png">
 
-### Setup
+## Setup
+**node.js**
+Make sure to you have the right version of Node.js
+```
+node -v
+// -> should print 8.x
+npm -v
+// -> should print 5.x
+```
+### Installing
 
-Install project dependencies using `npm install` and run the app with `npm start` and check it out on `localhost:3000`.
+**Install dependencies**
+```
+npm install
+```
+
+### Running the project
+Make sure you are in the same directory with `package.json`.
+```
+npm start
+```
+
+### Check it out
+Open a new tab and go to
+```
+localhost:3000
+```
+
+----------
+
+## Summary
 
 This is a modified version of the Landing Page on the previous app. First, create a user giving any set of credentials, then log them in by filling out those exact credentials on the Login panel. Upon login, you should be redirected to the Home Page again.
 

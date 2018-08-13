@@ -26,6 +26,12 @@ Make sure you are in the same directory with `package.json`.
 npm start
 ```
 
+### Check it out
+Open a new tab and go to
+```
+localhost:3000
+```
+
 ----------
 
 
