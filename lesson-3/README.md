@@ -1,5 +1,13 @@
 # Lesson 3: Node Modules and APIs
 
+Clarifai is an image and video recognition API that we are going to integrate into our project. We are going to build the backend for an program where you input a URL of an image and the webpage will display with the image and a guess for what the image is.
+
+<img width="1000" alt="home" src="https://user-images.githubusercontent.com/25493127/44029027-321ea638-9efc-11e8-9cfd-e15ce66d34d3.png">
+
+<img width="931" alt="dog" src="https://user-images.githubusercontent.com/25493127/44029030-34c62870-9efc-11e8-9d92-80acd778a537.png">
+
+<img width="1058" alt="not-dog" src="https://user-images.githubusercontent.com/25493127/44029036-365bb330-9efc-11e8-99c4-064407a20c0f.png">
+
 ## Setup
 **node.js**
 Make sure to you have the right version of Node.js
@@ -34,7 +42,6 @@ The four common types of HTTP requests are as follows:
 * **DELETE** - Removes data from your database
 
 ### Clarifai API
-Clarifai is an image and video recognition API that we are going to integrate into our project. We are going to build the backend for an program where you input a URL of an image and the webpage will display with the image and a guess for what the image is.
 
 **Sign-up for Clarifai**  
 
