@@ -25,6 +25,21 @@ Make sure you are in the same directory with `package.json`.
 npm start
 ```
 
+----------
+
+
+## Part 2: Understanding the project structure
+
+ - **bin**: Holds the `www` file, whose sole purpose is to actually run your application. Don't worry about this one.
+ - **node_modules**: Contains the source code of everything you  `npm install`
+ - **public**: All of your static resources to be served are contained here
+ - **routes**: All of your routing logic goes here (handling `POST`, `GET`, etc...)
+ - **views**: Where your frontend views live.
+ - **app.js**: The actual express app itself.
+
+
+----------
+
 ## Recommended Resources
 
  - Promises: https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
