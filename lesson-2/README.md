@@ -4,7 +4,6 @@ To get a good grasp of the basic concepts of HTTP and routing, we will be creati
 
 <img alt="lesson-screenshot" src="https://camo.githubusercontent.com/be2f7fc494629837c529c40672500badaa930154/68747470733a2f2f692e696d6775722e636f6d2f464373483636762e706e67">
 
-![enter image description here](https://scontent-lax3-1.xx.fbcdn.net/v/t31.0-8/20507398_493223817679381_4732876059136539753_o.jpg?oh=28f6f745e6df63cd34d401fd4dc6f098&oe=5AF9A831)
 ## Setup
 **node.js**
 Make sure to you have the right version of Node.js
